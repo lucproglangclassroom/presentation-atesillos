@@ -26,7 +26,7 @@ def printName
 	p! typeof(lName)
 	
 	puts
-	puts "Hello, #{fName} #{ lName}"
+	puts "Hello, #{fName} #{lName}"
 	puts
 end
 
