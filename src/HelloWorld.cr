@@ -30,7 +30,11 @@ def printName
 	puts
 end
 
+# While-loop to execute function 
+
 counter = 0
+p! typeof(counter)
+puts
 
 while counter < 2
 	printName
